@@ -5,3 +5,4 @@ Bamazon is an Amazon-like storefront with the MySQL skills. The app takes the or
 
 Screenshots of the App:
 The customer chooses an ID and quantity of product desired. If item and quantity are available, they are given a check-out with an updated price. They are then asked if they want to make another purchase.
+![](image/Screen%20Shot%202019-08-19%20at%206.29.52%20PM.png)
