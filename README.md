@@ -8,7 +8,7 @@ Screenshots of the App:
 
 The customer chooses an ID and quantity of product desired. If item and quantity are available, they are given a check-out with an updated price. They are then asked if they want to make another purchase.
 
-
+![](/images/Screen%20Shot%202019-08-19%20at%206.34.22%20PM.png)
 
 If the customer wants to make another purchase, the inventory list is shown again. The stock quantity is updated from previous purchase. If they do not wish to purchase anything else, the app ends.
 
