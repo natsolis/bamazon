@@ -13,3 +13,7 @@ The customer chooses an ID and quantity of product desired. If item and quantity
 If the customer wants to make another purchase, the inventory list is shown again. The stock quantity is updated from previous purchase. If they do not wish to purchase anything else, the app ends.
 
 ![](images/Screen%20Shot%202019-08-19%20at%206.29.52%20PM.png)
+
+If there is none in stock, they are alerted that there is none in stock. 
+
+![](/images/Screen%20Shot%202019-08-19%20at%207.25.24%20PM.png)
